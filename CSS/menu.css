@@ -1,0 +1,35 @@
+.history_menu {
+	background-image: url('../GFXs/history_menu.png');
+	width: 112px;
+	height: 20px;
+}
+.members_menu {
+	background-image: url('../GFXs/members_menu.png');
+	width: 112px;
+	height: 20px;
+}
+.productions_menu {
+	background-image: url('../GFXs/productions_menu.png');
+	width: 176px;
+	height: 20px;
+}
+.guestbook_menu {
+	background-image: url('../GFXs/guestbook_menu.png');
+	width: 144Px;
+	height: 20px;
+}
+.contact_menu {
+	background-image: url('../GFXs/contact_menu.png');
+	width: 112px;
+	height: 20px;
+}
+.links_menu {
+	background-image: url('../GFXs/links_menu.png');
+	width: 80px;
+	height: 20px;
+}
+.tiret_menu {
+	background-image: url('../GFXs/tiret_menu.png');
+	width: 16px;
+	height: 20px;
+}

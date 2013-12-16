@@ -1,0 +1,6 @@
+SetEnv PHP_VER 5_4
+RewriteEngine on
+RewriteRule ^history$ HEMOROIDS.php
+RewriteRule ^members$ HEMOROIDS.php?page=1
+RewriteRule ^productions$ HEMOROIDS.php?page=2
+RewriteRule ^links$ HEMOROIDS.php?page=5

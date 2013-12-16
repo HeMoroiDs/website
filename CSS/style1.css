@@ -1,0 +1,98 @@
+/*
+    Document   : style1.css
+    Created on : 31 juil. 2010, 19:13:07
+    Author     : pj
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/*
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root {
+    display: block;
+}
+body {
+	background-color: #1D1A2C;
+	margin-left: -2px;
+	margin-right: -2px;
+	text-align: center;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #1D1A2C;
+	font-style: normal;
+	width: 100%;
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+a {
+	color: transparent;
+}
+a img {
+	border-style: none;
+}
+.page {
+}
+.line {
+	background-color: #27233C;
+	height: 1px;
+
+	margin-left: -2px;
+
+	margin-right: -2px;
+
+}
+
+.espace {
+
+	height: 10px;
+
+}
+
+.bas {
+
+
+
+	margin-left: 2%;
+
+}
+
+.haut {
+
+
+
+	margin-right: 3%;
+
+}
+
+.midle {
+
+	background-color: #000000;
+
+	margin-left: -2px;
+
+	margin-right: -2px;
+
+}
+
+.fond {
+
+	margin: 0 auto;
+
+	width: 374px;
+
+	height :95px;
+
+	background-color: #000000;
+
+}
+
+.cred {
+
+	color: #FFFFFF;
+
+	font-style: italic;
+
+}
