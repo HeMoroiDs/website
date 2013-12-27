@@ -1,4 +1,7 @@
 SetEnv PHP_VER 5_4
+RewriteCond %{QUERY_STRING} \=PHP[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12} [NC]
+RewriteRule .* - [F]
+Options -Indexes
 RewriteEngine on
 RewriteRule ^history$ HEMOROIDS.php
 RewriteRule ^members$ HEMOROIDS.php?page=1
