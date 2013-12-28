@@ -5,13 +5,8 @@ echo '<?xml version="1.0" encoding="UTF-8"?>';
 <html>
     <head>
         <title>HeMoroiDs - Preparation H is good for you</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <meta name="generator" content="NETBEANS 7.0.1"/>
-        <meta name="author" content=""/>
-        <meta name="date" content=""/>
-        <meta name="copyright" content=""/>
-        <meta name="keywords" content=""/>
-        <meta name="description" content="HEMOROIDS - OFFICIAL WEBSITE !"/>
+        <meta name="description" content="HEMOROIDS - DemoGroup since 1988 on atari, amiga and PC (also on codef)."/>
+        <link rel="author" href="https://plus.google.com/u/0/107853956348923004318/posts" />
         <link rel="icon" type="image/x-icon" href="favicon.ico"/>
         <link href="CSS/style1.css" type="text/css" rel="stylesheet" />
         <meta name="google-site-verification" content="5bNUPwSFf9aIh6z75wgixfqZTEKGUKaF77qj1-10yG0" />

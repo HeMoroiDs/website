@@ -46,11 +46,6 @@ hr {
 .content h1,.content h2 {
     font-weight: 300;
 }
-.content div.history p,.content div.productions p {
-    color: #354575;
-    margin-left: 5px;
-    margin-right: 5px;
-}
 .content div.guestbook p {
     color: #6666AA;
     margin-left: 10%;
@@ -138,11 +133,6 @@ hr {
 }
 .content div.links div.column_left {
     float: left;
-}
-.content table tr td.screenshot img {
-    width: 200px;
-    height: 150px;
-    border: solid 1px #1D1A2C;
 }
 .content div.members div.logo_atari_1 {
     background-image: url("../logos/final.JPG");

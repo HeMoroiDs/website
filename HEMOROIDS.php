@@ -10,17 +10,20 @@ else
 <html>
     <head>
         <title>::HEMOROIDS::OFFICIAL WEBSITE::</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <meta name="generator" content="NETBEANS 7.0.1"/>
-        <meta name="author" content=""/>
-        <meta name="date" content=""/>
-        <meta name="copyright" content=""/>
-        <meta name="keywords" content=""/>
         <meta name="description" content="HMD - When preparation-H isn't enough !" />
+        <link rel="author" href="https://plus.google.com/u/0/107853956348923004318/posts" />
         <link rel="icon" type="image/x-icon" href="./favicon.ico"/>
-        <link href="./CSS/css.css" type="text/css" rel="stylesheet" />
-        <link href="./CSS/menu.css" type="text/css" rel="stylesheet" />
-
+        <link href="CSS/css.css" type="text/css" rel="stylesheet" />
+        <link href="CSS/menu.css" type="text/css" rel="stylesheet" />
+<?php
+//specific CSS
+    switch($page) {
+        case 2: ?>
+        <link href="CSS/productions.css" type="text/css" rel="stylesheet" />
+        <?php
+        break;
+    }
+    ?>
     </head>
     <body>
         <div id="main"></div>
@@ -59,6 +62,4 @@ else
         include('scripts/footer.php');
         ?>
     </body>
-
-
 </html>

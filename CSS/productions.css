@@ -1,0 +1,43 @@
+/* 
+    Document   : productions
+    Created on : 28 déc. 2013, 22:47:25
+    Author     : pj
+    Description:
+        Purpose of the stylesheet follows.
+*/
+.content div.productions div {
+    color: #354575;
+    margin: auto;
+}
+
+div.table {
+    display: table;
+    width: 90%;
+    margin: auto;
+    border-spacing: 5px;
+    padding: 5px;
+    border: 0px;
+}
+
+div.row {
+    display: table-row;
+    width: 100%;
+}
+
+div.cellLeft {
+    display: table-cell;
+    text-align: left;
+    vertical-align: middle;
+}
+
+div.cellRight {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+}
+
+.content div.screenshot img {
+    width: 200px;
+    height: 150px;
+    border: solid 1px #1D1A2C;
+}
