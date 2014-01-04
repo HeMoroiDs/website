@@ -1,0 +1,43 @@
+/* 
+    Document   : footer
+    Created on : 2 janv. 2014, 22:28:16
+    Author     : pj
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+#mountains {
+    margin: 0px 0px -5px;
+}
+#mountains img {
+    width: 837px;
+    height: 267px;
+    margin: auto;
+}
+
+#footer {
+    background-color: #000000;
+    font-family: Arial,Sans-serif;
+    font-size: 0.6em;
+    color: #CCCCCC;
+    text-align: center;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+    div#mountains img {
+        width: 304px;
+        height: 97px;
+    }
+}
+
+
+@media (min-width: 480px) and (max-width: 767px) {
+    div#mountains img {
+        width: 464px;
+        height: 148px;
+    }
+}
+

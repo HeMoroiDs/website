@@ -1,4 +1,4 @@
-﻿<div class="history">
+﻿<div id="history">
     <br/>
     <p>
         ATDT +33 xxx-xxx-xxxx

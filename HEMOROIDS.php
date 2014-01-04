@@ -13,33 +13,45 @@ else
         <meta name="description" content="HMD - When preparation-H isn't enough !" />
         <link rel="author" href="https://plus.google.com/u/0/107853956348923004318/posts" />
         <link rel="icon" type="image/x-icon" href="./favicon.ico"/>
-        <link href="CSS/css.css" type="text/css" rel="stylesheet" />
+        <link href="CSS/style.css" type="text/css" rel="stylesheet" />
         <link href="CSS/menu.css" type="text/css" rel="stylesheet" />
-<?php
-//specific CSS
-    switch($page) {
-        case 2: ?>
-        <link href="CSS/productions.css" type="text/css" rel="stylesheet" />
+        <link href="CSS/footer.css" type="text/css" rel="stylesheet" />
         <?php
-        break;
-    }
-    ?>
+//specific CSS
+        switch ($page) {
+            case 0:
+                ?>
+                <link href="CSS/history.css" type="text/css" rel="stylesheet" />
+                <?php
+                break;
+            case 1:
+                ?>
+                <link href="CSS/members.css" type="text/css" rel="stylesheet" />
+                <?php
+                break;
+            case 2:
+                ?>
+                <link href="CSS/productions.css" type="text/css" rel="stylesheet" />
+                <?php
+                break;
+        }
+        ?>
     </head>
     <body>
         <div id="main"></div>
-        <div class="top"></div>
+        <div id="top"><img src="GFX/logohaut.png" /></div>
         <div class="menu">
-            <?php
-            include('scripts/menu.php');
-            ?>
+<?php
+include('scripts/menu.php');
+?>
             <br/>
         </div>
-        <div class="content">
+        <div id="content">
             <?php
 //
             switch ($page) {
                 case 0:
-                    include('scripts/history.php');
+                    include_once 'scripts/history.php';
                     break;
                 case 1:
                     include_once 'scripts/members.php';
@@ -57,9 +69,8 @@ else
             ?>
             <br/>
         </div>
-        <div class="mountains"></div>
-        <?php
-        include('scripts/footer.php');
-        ?>
+<?php
+include('scripts/footer.php');
+?>
     </body>
 </html>

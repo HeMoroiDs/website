@@ -1,0 +1,26 @@
+/* 
+    Document   : members
+    Created on : 4 janv. 2014, 23:22:13
+    Author     : pj
+    Description:
+        Purpose of the stylesheet follows.
+*/
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#content div#members {
+    text-align: center;
+}
+
+#content div#members h2 {
+    color: #222C49;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+#content div#members ul li {
+    list-style: none;
+    font-size: 1.1em;
+    color: #354575;
+}

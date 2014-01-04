@@ -1,35 +1,72 @@
 .history_menu {
-	background-image: url('../GFXs/history_menu.png');
+	background-image: url('../GFX/history_menu.png');
 	width: 112px;
 	height: 20px;
 }
 .members_menu {
-	background-image: url('../GFXs/members_menu.png');
+	background-image: url('../GFX/members_menu.png');
 	width: 112px;
 	height: 20px;
 }
 .productions_menu {
-	background-image: url('../GFXs/productions_menu.png');
+	background-image: url('../GFX/productions_menu.png');
 	width: 176px;
 	height: 20px;
 }
 .guestbook_menu {
-	background-image: url('../GFXs/guestbook_menu.png');
+	background-image: url('../GFX/guestbook_menu.png');
 	width: 144Px;
 	height: 20px;
 }
 .contact_menu {
-	background-image: url('../GFXs/contact_menu.png');
+	background-image: url('../GFX/contact_menu.png');
 	width: 112px;
 	height: 20px;
 }
 .links_menu {
-	background-image: url('../GFXs/links_menu.png');
+	background-image: url('../GFX/links_menu.png');
 	width: 80px;
 	height: 20px;
 }
 .tiret_menu {
-	background-image: url('../GFXs/tiret_menu.png');
+	background-image: url('../GFX/tiret_menu.png');
 	width: 16px;
 	height: 20px;
 }
+
+div#menu {
+    width: 70%;
+    margin: auto;
+}
+
+div#menu div {
+    display: inline-block;
+    cursor: pointer;
+}
+
+
+@media (min-width: 320px) and (max-width: 480px) {
+    div#menu {
+        margin: 0px;
+    }
+div#menu div {
+    display: block;
+}
+div#menu div.tiret_menu {
+    display: none;
+}
+}
+
+
+@media (min-width: 480px) and (max-width: 767px) {
+    div#menu {
+        margin: 0px;
+    }
+div#menu div {
+    display: block;
+}
+div#menu div.tiret_menu {
+    display: none;
+}
+}
+

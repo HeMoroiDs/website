@@ -967,7 +967,7 @@
                 <br />
                 <div><a href="http://hemoroids.eu/download/disks.zip" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <td class="screenshot1" align="right"><img src="GFX/co.png" alt="" /></div>
+            <div class="screenshot1 cellRight" align="right"><img src="GFX/co.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -987,7 +987,7 @@
                 <br />
                 <div><a href="http://hemoroids.eu/download/votes.zip" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <td class="screensho1" align="right"><img src="GFX/a4.png" alt="" /></div>
+            <div class="cellRight screenshot1"><img src="GFX/a4.png" alt="" /></div>
         </div>
     </div>
     <br />

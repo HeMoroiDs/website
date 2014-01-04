@@ -1,87 +1,97 @@
-<div class="members">
+<div id="members">
     <br />
     <br />
-    <div class="logo_atari_1"></div>
+    <div class="logo_members"><img src="GFX/final.JPG" width="302" height="79" /></div>
     <br/>
-    <h1>[Section Atari 1st generation]</h1>
+    <h2>[Section Atari 1st generation]</h2>
     <br />
-    <h2>Skyrace (Coder-leader-Fonder)</h2>
-    <h2>Ckaos (Coder)</h2>
-    <h2>Gluev (Swapper)</h2>
-    <h2>Woody (Gfx)</h2>
-    <h2>Paranoids (Swapper)</h2>
-    <h2>Doc bit (Gfx-Gfa coder)</h2>
-    <h2>Skyhawk (Swapper)</h2>
-    <h2>Sink (Swapper)</h2>
-    <h2>Babar (Gfx)</h2>
-    <h2>Ahi (Swapper)</h2>
-    <h2>Duke (Muzik)</h2>
-    <h2>Samos (Coder)</h2>
+    <ul>
+        <li>Skyrace (Coder-leader-Fonder)</li>
+        <li>Ckaos (Coder)</li>
+        <li>Gluev (Swapper)</li>
+        <li>Woody (Gfx)</li>
+        <li>Paranoids (Swapper)</li>
+        <li>Doc bit (Gfx-Gfa coder)</li>
+        <li>Skyhawk (Swapper)</li>
+        <li>Sink (Swapper)</li>
+        <li>Babar (Gfx)</li>
+        <li>Ahi (Swapper)</li>
+        <li>Duke (Muzik)</li>
+        <li>Samos (Coder)</li>
+    </ul>
     <br />
-    <div class="logo_atari_2"></div>
+    <div class="logo_members"><img src="GFX/HMD2.png" width="244" height="141" /></div>
     <br/>
-    <h1>[Section Atari 2nd generation]</h1>
+    <h2>[Section Atari 2nd generation]</h2>
     <br />
-    <h2>Sink (Leader-swapper)</h2>
-    <h2>Stranger (Co-Leader-swapper)</h2>
-    <h2>Nucleus (Coder)</h2>
-    <h2>Jace (Coder)</h2>
-    <h2>Patapom -aka aardshock- (Coder)</h2>
-    <h2>Dieu (Gfx)</h2>
-    <h2>Ajt (Muzik)</h2>
-    <h2>Axel (Coder)</h2>
-    <h2>Nexxus (Gfx)</h2>
-    <h2>Raid -aka ach & excel- (Gfx)</h2>
-    <h2>Aldyn (Gfx)</h2>
-    <h2>Aem (Coder)</h2>
-    <h2>Island section -3 members- (Coder-Gfx-Muzik)</h2>
-    <h2>Mystics -3 members- (Coder-Gfx-Muzik)</h2>
+    <ul>
+        <li>Sink (Leader-swapper)</li>
+        <li>Stranger (Co-Leader-swapper)</li>
+        <li>Nucleus (Coder)</li>
+        <li>Jace (Coder)</li>
+        <li>Patapom -aka aardshock- (Coder)</li>
+        <li>Dieu (Gfx)</li>
+        <li>Ajt (Muzik)</li>
+        <li>Axel (Coder)</li>
+        <li>Nexxus (Gfx)</li>
+        <li>Raid -aka ach & excel- (Gfx)</li>
+        <li>Aldyn (Gfx)</li>
+        <li>Aem (Coder)</li>
+        <li>Island section -3 members- (Coder-Gfx-Muzik)</li>
+        <li>Mystics -3 members- (Coder-Gfx-Muzik)</li>
+    </ul>
     <br />
-    <div class="logo_amiga"></div>
+    <div class="logo_members"><img src="GFX/CUBES.png" width="320" height="148" /></div>
     <br/>
-    <h1>[Section Amiga]</h1>
+    <h2>[Section Amiga]</h2>
     <br />
-    <h2>Stc (Leader-coder)</h2>
-    <h2>Nec (Gfx)</h2>
-    <h2>Tuner (Swapper)</h2>
-    <h2>Zone (Swapper-Gfx)</h2>
-    <h2>BigM (Packer-Swapper)</h2>
-    <h2>Sam (Muzik)</h2>
-    <h2>Spock (Gfx)</h2>
-    <h2>Gryzor (Code-Muzik)</h2>
-    <h2>Made (Gfx)</h2>
-    <h2>Wann (Coder)</h2>
-    <h2>Ghost Penguin (Gfx)</h2>
-    <h2>Air (Coder)</h2>
-    <h2>Dockers (Muzik)</h2>
-    <h2>Callisto (Coder)</h2>
-    <h2>Bibi (Swapper)</h2>
-    <h2>Wink (Ray tracer)</h2>
-    <h2>Rocket (Coder)</h2>
-    <h2>Axel-f (Gfx)</h2>
-    <h2>Shean (Gfx)</h2>
-    <h2>Nuke (Gfx)</h2>
-    <h2>Orcus (Gfx)</h2>
+    <ul>
+        <li>Stc (Leader-coder)</li>
+        <li>Nec (Gfx)</li>
+        <li>Tuner (Swapper)</li>
+        <li>Zone (Swapper-Gfx)</li>
+        <li>BigM (Packer-Swapper)</li>
+        <li>Sam (Muzik)</li>
+        <li>Spock (Gfx)</li>
+        <li>Gryzor (Code-Muzik)</li>
+        <li>Made (Gfx)</li>
+        <li>Wann (Coder)</li>
+        <li>Ghost Penguin (Gfx)</li>
+        <li>Air (Coder)</li>
+        <li>Dockers (Muzik)</li>
+        <li>Callisto (Coder)</li>
+        <li>Bibi (Swapper)</li>
+        <li>Wink (Ray tracer)</li>
+        <li>Rocket (Coder)</li>
+        <li>Axel-f (Gfx)</li>
+        <li>Shean (Gfx)</li>
+        <li>Nuke (Gfx)</li>
+        <li>Orcus (Gfx)</li>
+    </ul>
     <br />
     <br />
-    <div class="logo_pc"></div>
+    <div class="logo_members"><img src="GFX/hmdintro.png" width="320" height="145" /></div>
     <br/>
-    <h1>[Section PC]</h1>
+    <h2>[Section PC]</h2>
     <br />
-    <h2>Marco Polo  (Leader-sysop)</h2>
-    <h2>Black label  (Coder)</h2>
-    <h2>Corwin       (Coder)</h2>
-    <h2>Skidz        (Muzik)</h2>
+    <ul>
+        <li>Marco Polo  (Leader-sysop)</li>
+        <li>Black label  (Coder)</li>
+        <li>Corwin       (Coder)</li>
+        <li>Skidz        (Muzik)</li>
+    </ul>
     <br />
-    <div class="rebirth"></div>
+    <div class="logo_members"><img src="GFX/rebirth.png" width="600" height="108" /></div>
     <br/>
-    <h1>[Rebirth 2013]</h1>
+    <h2>[Rebirth 2013]</h2>
     <br />
-    <h2>Sink    (again him?)</h2>
-    <h2>Angel         (Code)</h2>
-    <h2>Pandafox       (Gfx)</h2>
-    <h2>Ayoros        (Code)</h2>
-    <h2>Kelly.X       (Code)</h2>
-    <h2>Shooters      (Musik)</h2>
-    <h2>Stc            (Web/Code)</h2>
+    <ul>
+        <li>Sink    (again him?)</li>
+        <li>Angel         (Code)</li>
+        <li>Pandafox       (Gfx)</li>
+        <li>Ayoros        (Code)</li>
+        <li>Kelly.X       (Code)</li>
+        <li>Shooters      (Musik)</li>
+        <li>Stc            (Web)</li>
+    </ul>
 </div>

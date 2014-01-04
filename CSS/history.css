@@ -1,0 +1,45 @@
+/* 
+    Document   : history
+    Created on : 2 janv. 2014, 22:42:24
+    Author     : pj
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#content div#history div {
+    color: #354575;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#content div#history p {
+    color: #354575;
+    font-size: 1em;
+    margin: 10px;
+}
+#content #history a {
+    color: #666666;  
+}
+
+#content #history a:hover {
+    text-decoration: none;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+    #content div#history div {
+        margin-left: 2px;
+        margin-right: 2px;
+    }
+    #content div#history p {
+        font-size: 0.8em;
+        margin: 4px;
+    }
+}
+
+
+@media (min-width: 480px) and (max-width: 767px) {
+    #content div#history p {
+        font-size: 0.9em;
+        margin: 6px;
+    }
+}
+
