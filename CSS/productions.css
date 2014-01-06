@@ -5,9 +5,26 @@
     Description:
         Purpose of the stylesheet follows.
 */
-.content div.productions div {
+
+#content div#productions div {
+    color: #354575;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#content div#productions a  {
+    color: #666666;
+    text-decoration: none;
+}	
+
+#content div#productions div {
     color: #354575;
     margin: auto;
+}
+
+#content div#productions div.cellLeft div {
+    font-size: 0.8em;
+    font-weight: bold;
 }
 
 div.table {
@@ -24,6 +41,8 @@ div.row {
     width: 100%;
 }
 
+
+
 div.cellLeft {
     display: table-cell;
     text-align: left;
@@ -36,8 +55,86 @@ div.cellRight {
     vertical-align: middle;
 }
 
-.content div.screenshot img {
+#content img.screenshot {
     width: 200px;
     height: 150px;
     border: solid 1px #1D1A2C;
 }
+
+#content div.cellRight object {
+    width: 200px;
+    height: 170px;
+}
+
+#content div.cellRight iframe {
+    width: 200px;
+    height: 150px;
+}
+
+#content div#productions div#mods_logo {
+    background-image: url('../GFXs/compilzik.png');
+    width: 178px;
+    height: 125px;
+    margin: auto;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+    #content h1 {
+        font-size: 1.2em;
+    }
+    #content h2 {
+        font-size: 1em;
+    }
+    #content div#productions div.cellLeft div {
+        font-size: 0.6em;
+    }
+    #content img.screenshot {
+        width: 100px;
+        height: 75px;
+    }
+    #content div.cellRight object {
+        width: 100px;
+        height: 80px;
+    }
+
+    #content div.cellRight iframe {
+        width: 100px;
+        height: 75px;
+    }
+    embed {
+        width: 100px;
+        height: 75px;
+   }
+}
+
+
+@media (min-width: 480px) and (max-width: 767px) {
+    #content h1 {
+        font-size: 1.3em;
+    }
+    #content h2 {
+        font-size: 1em;
+    }
+    #content div#productions div.cellLeft div {
+        font-size: 0.7em;
+    }
+    #content img.screenshot {
+        width: 160px;
+        height: 120px;
+    }
+    #content div.cellRight object {
+        width: 160px;
+        height: 120px;
+    }
+
+    #content div.cellRight iframe {
+        width: 160px;
+        height: 120px;
+    }
+    embed {
+        width: 160px;
+        height: 120px;
+   }
+}
+

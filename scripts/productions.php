@@ -1,4 +1,4 @@
-<div class="productions">
+<div id="productions">
     <br />
     <br />
     <h1 align="center">::OFFICIAL PRODUCTIONS::</h1>
@@ -10,7 +10,8 @@
     <div class="table">
         <div class="row">
             <div class="cellLeft">
-                <h2>Hemosound I</h2><br />
+                <h2>Hemosound I</h2>
+                <br />
                 <div>Code : Skyrace</div>
                 <div>Graphics : Skyrace</div>
                 <div>Music : Amiga Mods</div>
@@ -19,7 +20,7 @@
                 <br />
                 <div><a href="http://no-fragments.atari.org/no_fragments_01/MSA/H/HMD/HMS1.MSA" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/HMS1.png" alt="" />
+            <div class="cellRight"><img class="screenshot" src="GFX/HMS1.png" alt="" />
         </div>
         </div>
     </div>
@@ -40,8 +41,8 @@
                 <br />
                 <div><a href="http://pacidemo.atarizone.com/archives/HMS2.ZIP" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight">
-                <object width="200" height="170"><param name="movie" value="http://video-france.com/player/pak_player/pak_player.swf?config=%7B%22clip%22%3A%7B%22url%22%3A%22http%3A%2F%2Fvideo-france.com%2Ffiles%2Fvideos%2F128955808227d14.flv%22%2C%22scaling%22%3A%22fit%22%7D%2C%22plugins%22%3A%7B%22controls%22%3A%7B%22background%22%3A%22url%28http%3A%2F%2Fvideo-france.com%2Fplayer%2Fpak_player%2Fbg.png%29+repeat%22%7D%7D%7D"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://video-france.com/player/pak_player/pak_player.swf?config=%7B%22clip%22%3A%7B%22url%22%3A%22http%3A%2F%2Fvideo-france.com%2Ffiles%2Fvideos%2F128955808227d14.flv%22%2C%22scaling%22%3A%22fit%22%7D%2C%22plugins%22%3A%7B%22controls%22%3A%7B%22background%22%3A%22url%28http%3A%2F%2Fvideo-france.com%2Fplayer%2Fpak_player%2Fbg.png%29+repeat%22%7D%7D%7D"type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="200" height="170"></embed></object>
+            <div class="cellRight">
+                <object><param name="movie" value="http://video-france.com/player/pak_player/pak_player.swf?config=%7B%22clip%22%3A%7B%22url%22%3A%22http%3A%2F%2Fvideo-france.com%2Ffiles%2Fvideos%2F128955808227d14.flv%22%2C%22scaling%22%3A%22fit%22%7D%2C%22plugins%22%3A%7B%22controls%22%3A%7B%22background%22%3A%22url%28http%3A%2F%2Fvideo-france.com%2Fplayer%2Fpak_player%2Fbg.png%29+repeat%22%7D%7D%7D"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://video-france.com/player/pak_player/pak_player.swf?config=%7B%22clip%22%3A%7B%22url%22%3A%22http%3A%2F%2Fvideo-france.com%2Ffiles%2Fvideos%2F128955808227d14.flv%22%2C%22scaling%22%3A%22fit%22%7D%2C%22plugins%22%3A%7B%22controls%22%3A%7B%22background%22%3A%22url%28http%3A%2F%2Fvideo-france.com%2Fplayer%2Fpak_player%2Fbg.png%29+repeat%22%7D%7D%7D"type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true"></embed></object>
             </div>
         </div>
     </div>
@@ -62,7 +63,7 @@
                 <br />
                 <div><a href="http://equinox.planet-d.net/pouet/HMD_1.ZIP" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/tgs.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/tgs.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -82,7 +83,7 @@
                 <br />
                 <div><a href="http://pacidemo.planet-d.net/archives/POV139.ZIP" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/yo.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/yo.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -102,7 +103,7 @@
                 <br />
                 <div><a href="http://stanz05.free.fr/HMD_BOBS.zip" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/atomic.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/atomic.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -122,7 +123,7 @@
                 <br />
                 <div><a href="http://stanz05.free.fr/TCB%20Tracker.zip" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/tcb.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/tcb.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -142,7 +143,7 @@
                 <br />
                 <div><a href="http://www.dbv-bowling.de/ATARI/HMD_REPL.PRG" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/reps.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/reps.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -162,7 +163,7 @@
                 <br />
                 <div><a href="http://pacidemo.atarizone.com/archives/TRANS1_P.ZIP" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/trans1.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/trans1.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -182,7 +183,7 @@
                 <br />
                 <div><a href="http://equinox.planet-d.net/pouet/HMD_GEN4.ZIP" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/gen4.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/gen4.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -203,7 +204,7 @@
                 <br />
                 <div><a href="http://keops.equinox.free.fr/pouet/KRYPTICA.ZIP" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/kryp.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/kryp.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -226,7 +227,7 @@
                 <div><a href="http://pacidemo.atarizone.com/archives/EURO_A_P.ZIP" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt; Disk A</a></div>
                 <div><a href="http://pacidemo.atarizone.com/archives/EURO_B_P.ZIP" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt; Disk B</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/euro.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/euro.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -247,7 +248,7 @@
                 <br />
                 <div><a href="http://www.pouet.net/prod.php?which=496" title="DOWNLOAD">Look here for the 4 Disks</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/pha.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/pha.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -268,8 +269,8 @@
                 <br />
                 <div><a href="http://equinox.planet-d.net/pouet/hemdroid.zip" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight">
-                <object width="200" height="170"><param name="movie" value="http://www.youtube-nocookie.com/v/HLEY_GsBhbw&hl=fr&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/HLEY_GsBhbw&hl=fr&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="200" height="170"></embed></object></div>
+            <div class="cellRight">
+                <object><param name="movie" value="http://www.youtube-nocookie.com/v/HLEY_GsBhbw&hl=fr&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/HLEY_GsBhbw&hl=fr&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="200" height="170"></embed></object></div>
         </div>
     </div>
     <br />
@@ -290,7 +291,7 @@
                 <br />
                 <div><a href="http://stknights.free.fr/uploads/fullparts.zip" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/Full.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/Full.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -311,8 +312,8 @@
                 <br />
                 <div><a href="http://pacidemo.atarizone.com/archives/BEACHTRO.ZIP" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight">
-                <object width="200" height="170"><param name="movie" value="http://www.youtube-nocookie.com/v/PqPH3-cnEk4&hl=fr&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/PqPH3-cnEk4&hl=fr&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="200" height="170"></embed></object></div>
+            <div class="cellRight">
+                <object><param name="movie" value="http://www.youtube-nocookie.com/v/PqPH3-cnEk4&hl=fr&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/PqPH3-cnEk4&hl=fr&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="200" height="170"></embed></object></div>
         </div>
     </div>
     <br />
@@ -334,7 +335,7 @@
                 <br />
                 <div><a href="http://equinox.planet-d.net/pouet/amazine4.zip" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/am.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/am.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -356,7 +357,7 @@
                 <br />
                 <div><a href="http://www.pouet.net/search.php?what=speedy+pack&type=prod" title="DOWNLOAD">Look here</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/sp.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/sp.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -380,8 +381,8 @@
                 <br />
                 <div><a href="http://stknights.free.fr/uploads/colorz.zip" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt; Disk Image</a></div>
             </div>
-            <div class="screenshot cellRight">
-                <object width="200" height="170"><param name="movie" value="http://www.youtube-nocookie.com/v/HJDKAQbRYZg&hl=fr&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/HJDKAQbRYZg&hl=fr&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="200" height="170"></embed></object></div>
+            <div class="cellRight">
+                <object><param name="movie" value="http://www.youtube-nocookie.com/v/HJDKAQbRYZg&hl=fr&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/HJDKAQbRYZg&hl=fr&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="200" height="170"></embed></object></div>
         </div>
     </div>
     <br />
@@ -404,7 +405,7 @@
                 <br />
                 <div><a href="http://no-fragments.atari.org/no_fragments_01/MSA/H/HMD/MMMEXP.MSA" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/mmm.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/mmm.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -426,7 +427,7 @@
                 <br />
                 <div><a href="http://no-fragments.atari.org/no_fragments_08/MSA/BSW/DCD/DCD_131.MSA" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/cointro.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/cointro.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -451,7 +452,7 @@
                 <br />
                 <div><a href="http://files.dhs.nu/files_demo/phototro.zip" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt; Disk Image</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/phototro.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/phototro.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -472,8 +473,8 @@
                 <br />
                 <div><a href="http://pacidemo.atarizone.com/archives/HUMEUR.ZIP" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight">
-                <object width="200" height="170"><param name="movie" value="http://www.youtube-nocookie.com/v/rIzu16vfubA&hl=fr&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/rIzu16vfubA&hl=fr&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="200" height="170"></embed></object>
+            <div class="cellRight">
+                <object><param name="movie" value="http://www.youtube-nocookie.com/v/rIzu16vfubA&hl=fr&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/rIzu16vfubA&hl=fr&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="200" height="170"></embed></object>
             </div>
         </div>
     </div>
@@ -497,7 +498,7 @@
                 <br />
                 <div><a href="http://poi.ribbon.free.fr/files/necrosys.zip" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt; Disk Image</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/necrosys.png" width="192" height="135" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/necrosys.png" width="192" height="135" alt="" /></div>
         </div>
     </div>
     <br />
@@ -518,7 +519,7 @@
                 <br />
                 <div><a href="http://falcdemos.atari.org/archive/various/1995.geranium/geranium.zip" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/geranium.png" width="192" height="135" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/geranium.png" width="192" height="135" alt="" /></div>
         </div>
     </div>
     <br />
@@ -538,7 +539,7 @@
                 <br />
                 <div><a href="ftp://ftp.amigascne.org/pub/amiga/Groups/H/Hemoroids/HEMOROIDS-AmigaBorn">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/32978.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/32978.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -558,7 +559,7 @@
                 <br />
                 <div><a href="ftp://ftp.amigascne.org/pub/amiga/Groups/H/Hemoroids/HEMOROIDS-Intro1">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/32979.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/32979.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -580,7 +581,7 @@
                 <br />
                 <div><a href="http://pouet.net/search.php?what=turlututu&type=prod">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/48614.png" width="359" height="293" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/48614.png" width="359" height="293" alt="" /></div>
         </div>
     </div>
     <br />
@@ -601,7 +602,7 @@
                 <br />
                 <div><a href="ftp://ftp.amigascne.org/pub/amiga/Groups/H/Hemoroids/HEMOROIDS-NoName">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/32982.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/32982.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -621,7 +622,7 @@
                 <br />
                 <div><a href="ftp://ftp.amigascne.org/pub/amiga/Groups/H/Hemoroids/HEMOROIDS-Nicktro">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/32981.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/32981.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -641,7 +642,7 @@
                 <br />
                 <div><a href="ftp://ftp.amigascne.org/pub/amiga/Groups/H/Hemoroids/HEMOROIDS-Myopchart">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/32980.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/32980.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -661,8 +662,8 @@
                 <br />
                 <div><a href="ftp://ftp.amigascne.org/pub/amiga/Groups/H/Hemoroids/HEMOROIDS-SRIntro">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight">
-                <object width="200" height="170"><param name="movie" value="http://www.youtube.com/v/YyxTgwOiS4g?fs=1&amp;hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/YyxTgwOiS4g?fs=1&amp;hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="200" height="170"></embed></object>
+            <div class="cellRight">
+                <object><param name="movie" value="http://www.youtube.com/v/YyxTgwOiS4g?fs=1&amp;hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/YyxTgwOiS4g?fs=1&amp;hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="200" height="170"></embed></object>
             </div>
         </div>
     </div>
@@ -685,8 +686,8 @@
                 <div><a href="http://ftp.amigascne.org/pub/amiga/Groups/H/Hemoroids/Endless_Melodies-Disk1.DMS">Download Disk #1</a></div>
                 <div><a href="http://ftp.amigascne.org/pub/amiga/Groups/H/Hemoroids/Endless_Melodies-Disk2.DMS">Download Disk #2</a></div>
             </div>
-            <div class="screenshot cellRight">
-                <object width="200" height="170"><param name="movie" value="http://www.youtube.com/v/nCYo1FQ7f68&hl=fr&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/nCYo1FQ7f68&hl=fr&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="200" height="170"></embed></object></div>
+            <div class="cellRight">
+                <object><param name="movie" value="http://www.youtube.com/v/nCYo1FQ7f68&hl=fr&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/nCYo1FQ7f68&hl=fr&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="200" height="170"></embed></object></div>
         </div>
     </div>
     <br />
@@ -707,8 +708,8 @@
                 <br />
                 <div><a href="http://ftp.amigascne.org/pub/amiga/Groups/H/Hemoroids/HEMOROIDS-Woualaran">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight">
-                <object width="200" height="170"><param name="movie" value="http://www.youtube.com/v/kb-sxCgLsXg?fs=1&amp;hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/kb-sxCgLsXg?fs=1&amp;hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="200" height="170"></embed></object>
+            <div class="cellRight">
+                <object><param name="movie" value="http://www.youtube.com/v/kb-sxCgLsXg?fs=1&amp;hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/kb-sxCgLsXg?fs=1&amp;hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="200" height="170"></embed></object>
             </div>
         </div>
     </div>
@@ -729,7 +730,7 @@
                 <br />
                 <div><a href="ftp://ftp.amigascne.org/pub/amiga/Groups/H/Hemoroids/HEMOROIDS-Zarbi">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/32986.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/32986.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -750,7 +751,7 @@
                 <br />
                 <div><a href="ftp://ftp.amigascne.org/pub/amiga/Groups/H/Hemoroids/HEMOROIDS-AdWinktro">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/winktro.png" width="380" height="300" alt="" />
+            <div class="cellRight"><img class="screenshot" src="GFX/winktro.png" alt="" />
             </div>
         </div>
     </div>
@@ -771,8 +772,8 @@
                 <br />
                 <div><a href="ftp://ftp.amigascne.org/pub/amiga/Groups/H/Hemoroids/HEMOROIDS-WeFunkYou">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight">
-                <iframe width="200" height="150" src="//www.youtube.com/embed/SHBCJu6Du5M" frameborder="0" allowfullscreen></iframe></div>
+            <div class="cellRight">
+                <iframe src="//www.youtube.com/embed/SHBCJu6Du5M" frameborder="0" allowfullscreen></iframe></div>
         </div>
     </div>
     <br />
@@ -793,7 +794,7 @@
                 <br />
                 <div><a href="ftp://ftp.untergrund.net/users/eltopo/hemoroids-street_pack_11.zip">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/25256.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/25256.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -814,7 +815,7 @@
                 <div><a href="ftp://ftp.amigascne.org/pub/amiga/Groups/H/Hemoroids/MEGALO_1.DMS">&gt;&gt;Download here&lt;&lt; DIsk 1.</a></div>
                 <div><a href="ftp://ftp.amigascne.org/pub/amiga/Groups/H/Hemoroids/MEGALO_2.DMS">&gt;&gt;Download here&lt;&lt; DIsk 2.</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/megalo.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/megalo.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -835,7 +836,7 @@
                 <br />
                 <div><a href="http://www.scene.org/file.php?file=%2Fparties%2F1993%2Ftheparty93%2Fdemo%2Flostspac.zip&fileinfo">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/lost.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/lost.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -856,7 +857,7 @@
                 <br />
                 <div><a href="ftp://ftp.untergrund.net/users/dipswitch/pouet/bbstros/hmd_bbs.zip">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/adventure.png" width="380" height="300" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/adventure.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -878,7 +879,7 @@
                 <br />
                 <div><a href="http://www.wab.com/?screen=218" target="_blank" title="SEE ONLINE">&gt;&gt;See online (Use chrome)&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/rebirth.png" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/rebirth.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -898,7 +899,7 @@
                 <br />
                 <div><a href="http://wab.com/?screen=224" target="_blank" title="SEE ONLINE">&gt;&gt;See online (Use chrome)&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/blacknwhite.png" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/blacknwhite.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -917,7 +918,7 @@
                 <br />
                 <div><a href="http://wab.com/?screen=225" target="_blank" title="SEE ONLINE">&gt;&gt;See online (Use chrome)&lt;&lt;</a></div>
             </div>
-            <div class="screenshot cellRight"><img src="GFX/jukebox.png" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/jukebox.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -939,8 +940,8 @@
                 <div><a href="http://alanoth.free.fr/return(party%20version).rar">&gt;&gt;Download here&lt;&lt;</a></div>
                 <br/>
             </div>
-            <div class="screenshot cellRight">
-                <iframe width="200" height="150" src="//www.youtube.com/embed/cq1BGP7pBKk" frameborder="0" allowfullscreen></iframe></div>
+            <div class="cellRight">
+                <iframe src="//www.youtube.com/embed/cq1BGP7pBKk" frameborder="0" allowfullscreen></iframe></div>
         </div>
     </div>
     <br />
@@ -967,7 +968,7 @@
                 <br />
                 <div><a href="http://hemoroids.eu/download/disks.zip" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="screenshot1 cellRight" align="right"><img src="GFX/co.png" alt="" /></div>
+            <div class="cellRight" align="right"><img class="screenshot" src="GFX/co.png" alt="" /></div>
         </div>
     </div>
     <br />
@@ -987,14 +988,14 @@
                 <br />
                 <div><a href="http://hemoroids.eu/download/votes.zip" title="DOWNLOAD">&gt;&gt;Download here&lt;&lt;</a></div>
             </div>
-            <div class="cellRight screenshot1"><img src="GFX/a4.png" alt="" /></div>
+            <div class="cellRight"><img class="screenshot" src="GFX/a4.png" alt="" /></div>
         </div>
     </div>
     <br />
     <hr/>
     <br />
     <!-- Fin prod -->
-    <div class="mods_logo"></div>
+    <div id="mods_logo"></div>
     <br />
     <h2 align="center">::Famous Mods From HMD::</h2>
     <hr />

@@ -19,6 +19,11 @@ img {
     font-size: 1.5em;
     font-weight: bold;
 }
+#content div#members ul {
+    margin: 0px;
+    padding: 0px;
+}
+
 #content div#members ul li {
     list-style: none;
     font-size: 1.1em;

@@ -26,7 +26,7 @@ echo '<?xml version="1.0" encoding="UTF-8"?>';
         <div class="line"></div>
         <div class="midle">
             <div id="fond" class="fond" align="center">
-                <a href="history"><img src="logos/logointro.png" img border="0" class="logo"></a>
+                <a href="history"><img src="GFX/logointro.png" img border="0" class="logo"></a>
             </div>
         </div>
         <div class="line"></div>
