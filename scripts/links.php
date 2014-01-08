@@ -1,23 +1,19 @@
-<div class="links">
-    <table cellpadding="0" cellspacing="2" border="0" align="center" valign="middle">
-        <tr><td>
-                <div>...stay in touch with us on</div>
-            </td>
-            <td>
-                <div class="facebook" onclick="javascript:window.location.href = 'http://www.facebook.com/home.php#/group.php?gid=151375593525&ref=mf';"></div><br/>
-            </td>
-            <td><div>...</div></td>
-        </tr></table>
-    <div class="column_left">
-        <table cellpadding="0" cellspacing="0" border="0" width="418">
-            <tr>
-                <td width="105">
+<div id="links">
+    <div id="fb">
+    <div class="inlineBlock">...stay in touch with us on</div>
+                <div id="facebook" class="inlineBlock" onclick="javascript:window.location.href = 'http://www.facebook.com/home.php#/group.php?gid=151375593525&ref=mf';"></div>
+            <div class="inlineBlock">...</div>
+    </div>
+    <div class="column">
+        <div class="table">
+            <div class="row">
+                <div class="cell left">
                     <img src="logos/atari_logo.jpg" width="100" height="100" border="0" hspace="5" alt="" />
-                </td>
-                <td>
+                </div>
+                <div class="cell right">
                     <!-- Debut ATARI -->
                     <br/><div class="link"><a href="http://leonard.oxg.free.fr/" target="_blank">Saint</a></div>
-                    <div>Famous Emulator of ATARI ST </div>
+                    <div><Famous Emulator of ATARI ST </div>
                     <br/><div class="link"><a href="http://stknights.free.fr/" target="_blank">ST Knights</a></div>
                     <div>Official webpage</div>
                     <br/><div class="link"><a href="http://no-fragments.atari.org" target="_blank">No-Fragments</a></div>
@@ -79,17 +75,18 @@
                     <br/><div class="link"><a href="http://www.atarimusic.net/" target="_blank">Atari Music.net</a></div>
                     <div>Great site about ATARI Music</div>
                     <!-- Fin ATARI -->
-                </td>
-            </tr>
-        </table>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="column_right">
-        <table cellpadding="0" cellspacing="0" border="0" width="419">
-            <tr>
-                <td width="105">
+</div>
+    <div class="column">
+        <div class="table">
+            <div class="row">
+                <div class="cell left">
                     <img src="logos/amiga.png" width="100" height="100" border="0" hspace="5" alt="" />
-                </td>
-                <td>
+                </div>
+                <div class="cell right">
                     <!-- Debut AMIGA -->
                     <br/><div class="link"><a href="http://gfxzone.planet-d.net/frames.html" target="_blank">GFXZone</a></div>
                     <div>The Utimate Demo Scene Graphics site!</div>
@@ -134,22 +131,22 @@
                     <br/><div class="link"><a href="http://www.exotica.org.uk/wiki/Main_Page" target="_blank">Exotica</a></div>
                     <div>info, sound, games and demos 100% Commodore</div>
                     <!-- Fin AMIGA -->
-                </td>
-            </tr>
-        </table>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="clear_both"></div>
+<div></div>
+<br/>
     <br/>
     <br/>
     <br/>
-    <br/>
-    <div class="column_left">
-        <table cellpadding="0" cellspacing="0" border="0" width="418">
-            <tr>
-                <td width="105">
+    <div class="column">
+        <div class="table">
+            <div class="row">
+                <div class="cell left">
                     <img src="logos/c64.jpg" width="100" height="100" border="0" hspace="5" alt="" />
-                </td>
-                <td>
+                </div>
+                <div class="cell right">
                     <!-- Debut C64 -->
                     <br/><div class="link"><a href="http://noname.c64.org/csdb/" target="_blank">CSDB</a></div>
                     <div>The C-64 scene Database</div>
@@ -160,24 +157,24 @@
                     <br/><div class="link"><a href="http://www.pepto.de/projects/colorvic/"_blank">Vice tips</a></div>
                     <div>Nice Page with info about palettes and emulator</div>
                     <!-- Fin C64 -->
-                </td>
-            </tr>
-        </table>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="column_right">
+    <div class="column">
     </div>
-    <div class="clear_both"></div>
+    <div></div>
     <br/>
     <br/>
     <br/>
     <br/>
-    <div class="column_left">
-        <table cellpadding="0" cellspacing="0" border="0" width="418">
-            <tr>
-                <td width="105">
+    <div class="column">
+        <div class="table">
+            <div class="row">
+                <div class="cell left">
                     <img src="logos/scene.jpg" width="100" height="100" border="0" hspace="5" alt="" />
-                </td>
-                <td>
+                </div>
+                <div class="cell right">
                     <!-- Debut SCENE -->
                     <br/><div class="link"><a href="http://www.intro-inferno.com" target="_blank">Intro-inferno</a></div>
                     <div>Very Nice Site about Demos and Intros</div>
@@ -206,31 +203,29 @@
                     <br/><div class="link"><a href="http://www.pgcs.info/" target="_blank">PGCS/ATZ</a></div>
                     <div>Nice personnal page and kick ass GFX</div>
                     <!-- Fin SCENE -->
-                </td>
-            </tr>
-        </table>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="column_right">
+    <div class="column">
     </div>
-    <div class="clear_both"></div>
     <br/>
     <br/>
-    <div class="column_left">
-        <table cellpadding="0" cellspacing="0" border="0" width="418">
-            <tr>
-                <td width="105">
+    <div class="column">
+        <div class="table">
+            <div class="row">
+                <div class="cell left">
                     <img src="logos/ascii.jpg" width="100" height="100" border="0" hspace="5" alt="" />
-                </td>
-                <td>
+                </div>
+                <div class="cell right">
                     <!-- Debut ASCII -->
                     <br/><div class="link"><a href="http://www.roysac.com/default.asp" target="_blank">Roy/SAC</a></div>
                     <div>Roy Blog, Art Galleries and more....</div>
                     <br/><div class="link"><a href="http://www.asciiarena.com/" target="_blank">AsciiArena</a></div>
                     <div>the old and new Asciiscene</div>
                     <!-- Fin ASCII -->
-                </td>
-            </tr>
-        </table>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="clear_both"></div>
 </div>

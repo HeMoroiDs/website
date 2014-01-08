@@ -1,0 +1,74 @@
+/* 
+    Document   : links
+    Created on : 8 janv. 2014, 21:57:05
+    Author     : pj
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#content div#links {
+    color: #354575;
+    font-size: 0.8em;
+}
+
+#content div#fb {
+    text-align: center;
+}
+div#facebook {
+    background-image: url('../GFXs/logo-facebook.png');
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+}
+
+#content a {
+    color: #666666;
+}
+
+#content a:hover {
+    text-decoration: none;
+}
+
+#content div#links div.link {
+    color: #666699;
+}
+
+#content div#links div.column {
+    display: inline-block;
+    vertical-align: top;
+    width: 45%;
+}
+
+#content div#links div.row {
+    display: table-row;
+}
+
+#content div#links div.cell {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#content div#links div.left {
+    width: 105px;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+    #content div#links div.table {
+        display: block;
+    }
+    #content div#links div.row {
+        display: block;
+    }
+    #content div#links div.row {
+        display: block;
+    }
+    #content div#links div.column {
+        display: block;
+        width: 100%;
+    }
+}
+
+
+@media (min-width: 480px) and (max-width: 767px) {
+}
+

@@ -52,6 +52,11 @@ hr {
     font-weight: bold;
 }
 
+#content div.inlineBlock {
+    display: inline-block;
+    vertical-align: middle;
+}
+
 #content div.guestbook p {
     color: #6666AA;
     margin-left: 10%;
@@ -63,10 +68,10 @@ hr {
     margin-right: 10%;
     text-decoration: underline;
 }	
-#content #history a,#content .members a,#content .guestbook a,#content .links a {
+#content #history a,#content .members a,#content .guestbook a {
     color: #666666;
 }
-#content #history a:hover,#content .members a:hover,#content .guestbook a:hover,#content .links a:hover {
+#content #history a:hover,#content .members a:hover,#content .guestbook a:hover,#content {
     text-decoration: none;
 }
 
@@ -105,20 +110,6 @@ hr {
     text-decoration: underline;
 }
 
-#content div.links div table tr td div,
-#content div.links table tr td div {
-    color: #666666;
-}
-#content div.links div table tr td div.link a {
-    color: #666699;
-
-}
-#content div.links div table tr td div a:hover {
-    text-decoration: none;
-}
-#content div.links div.column_left {
-    float: left;
-}
 
 #content div.guestbook div.logo_guestbook {
     background-image: url("../logos/nexxus_5.png");
@@ -167,12 +158,6 @@ input,textarea {
 }
 .clear_both {
     clear: both;
-}
-div.facebook {
-    background-image: url('../GFXs/logo-facebook.png');
-    width: 32px;
-    height: 32px;
-    cursor: pointer;
 }
 @media (min-width: 320px) and (max-width: 480px) {
 body {

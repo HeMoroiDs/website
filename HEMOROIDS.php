@@ -34,6 +34,11 @@ else
                 <link href="CSS/productions.css" type="text/css" rel="stylesheet" />
                 <?php
                 break;
+            case 3:
+                ?>
+                <link href="CSS/links.css" type="text/css" rel="stylesheet" />
+                <?php
+                break;
         }
         ?>
     </head>
@@ -41,9 +46,9 @@ else
         <div id="main"></div>
         <div id="top"><img src="GFX/logohaut.png" /></div>
         <div class="menu">
-<?php
-include('scripts/menu.php');
-?>
+            <?php
+            include('scripts/menu.php');
+            ?>
             <br/>
         </div>
         <div id="content">
@@ -69,8 +74,8 @@ include('scripts/menu.php');
             ?>
             <br/>
         </div>
-<?php
-include('scripts/footer.php');
-?>
+        <?php
+        include('scripts/footer.php');
+        ?>
     </body>
 </html>
